@@ -20,14 +20,7 @@ An AI-powered e-commerce product description generator built with Python and [Ol
 
 ## 📸 Screenshot
 
-> Desktop app (dark theme)
-
-```
-╔══════════════════════════════════════════════════════╗
-║   🛍️  Product Description Generator                  ║
-║        Powered by Ollama · llama3.2                  ║
-╚══════════════════════════════════════════════════════╝
-```
+![Product Description Generator — dark theme desktop app](screenshot.png)
 
 ---
 
@@ -94,6 +87,7 @@ The script guides you through each input interactively and streams the output to
 product-description-generator/
 ├── app.py                            # Desktop GUI (Tkinter, dark theme)
 ├── product_description_generator.py  # CLI script
+├── screenshot.png                    # App screenshot
 └── README.md
 ```
 
