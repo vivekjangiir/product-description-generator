@@ -38,7 +38,7 @@ ollama serve
 ### 2. Clone this repo
 
 ```bash
-git clone https://github.com/vivekjangiir/product-description-generator.git
+git clone https://github.com/vieveksharmaa/product-description-generator.git
 cd product-description-generator
 ```
 
